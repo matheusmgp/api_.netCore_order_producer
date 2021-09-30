@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpxV74COyh61SrORLrJKcvCU2BxwQN98ZxWTk+5nRXyo3cLq3XOA7WgsPyxwlP4ak+c8koyXeKKEHCJ39/KNlg==",
+  "success": true,
+  "projectFilePath": "E:\\projetos\\nodeJS\\Projeto de MicroServiços\\api_.netCore_order_producer\\orderProducer\\orderProducerAPI\\orderProducerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\matheus\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\matheus\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
